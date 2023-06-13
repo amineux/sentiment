@@ -19,3 +19,7 @@ spec:
           image: #for now   <frontend_image_name>
           ports:
             - containerPort: 80
+
+
+
+#to deploytype the command :           kubectl apply -f frontend-deployment.yaml
