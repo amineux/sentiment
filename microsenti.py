@@ -1,5 +1,5 @@
 # sentiment_analysis_service.py
-
+#microsentimentservice
 import nltk
 from nltk.sentiment import SentimentIntensityAnalyzer
 from flask import Flask, request, jsonify
