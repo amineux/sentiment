@@ -37,5 +37,4 @@ def analyze():
     """
   
 
-    return render_template('result.html
-  ', text=text, sentiment_text=sentiment_text, sentiment_score=sentiment_score)
+    return render_template('result.html', text=text, sentiment_text=sentiment_text, sentiment_score=sentiment_score)
